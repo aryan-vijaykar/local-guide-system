@@ -1,0 +1,41 @@
+{
+  "name": "The Local Guide System",
+  "description": "Advanced AI prototype for local city intelligence",
+  "version": "1.0.0",
+  "created": "2024-12-24",
+  "settings": {
+    "python": {
+      "interpreter": "python",
+      "version": "3.11+",
+      "main_module": "main.py",
+      "web_app": "web_app.py"
+    },
+    "project": {
+      "type": "ai_system",
+      "framework": "custom",
+      "architecture": "modular",
+      "context_driven": true
+    },
+    "features": {
+      "local_reasoning": true,
+      "slang_translation": true,
+      "confidence_scoring": true,
+      "web_interface": true,
+      "context_loading": true
+    }
+  },
+  "dependencies": [
+    "flask",
+    "typing",
+    "dataclasses",
+    "datetime",
+    "json",
+    "re"
+  ],
+  "entry_points": {
+    "cli": "python main.py",
+    "web": "python web_app.py",
+    "demo": "python run_demo.py",
+    "test": "python tests/test_system.py"
+  }
+}

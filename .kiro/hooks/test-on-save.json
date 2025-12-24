@@ -1,0 +1,14 @@
+{
+  "name": "Test Local Guide System",
+  "description": "Run tests when Python files are saved",
+  "trigger": {
+    "type": "file_save",
+    "pattern": "src/*.py"
+  },
+  "action": {
+    "type": "command",
+    "command": "python tests/test_system.py",
+    "showOutput": true
+  },
+  "enabled": true
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Run Local Guide Demo",
+  "description": "Quick demo of the Local Guide System",
+  "trigger": {
+    "type": "manual",
+    "button": "🌍 Run Demo"
+  },
+  "action": {
+    "type": "command",
+    "command": "python run_demo.py",
+    "showOutput": true
+  },
+  "enabled": true
+}

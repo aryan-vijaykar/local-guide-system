@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "local-guide-tools": {
+      "command": "python",
+      "args": ["-m", "src.local_guide_system"],
+      "env": {
+        "PYTHONPATH": ".",
+        "LOCAL_GUIDE_MODE": "mcp"
+      },
+      "disabled": false,
+      "autoApprove": [
+        "process_query",
+        "translate_slang",
+        "get_recommendations",
+        "get_system_status"
+      ]
+    }
+  }
+}
