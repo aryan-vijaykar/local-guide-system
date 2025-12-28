@@ -898,4 +898,18 @@ describe('Slang Translator', () => {
 - [ ] Explanation generation for reasoning chains
 - [ ] Context quality metrics and validation tools
 
-### Research
+<div align="center">
+
+### ⭐ If you find this project interesting, please star the repository!
+
+**Built with ❤️ and AWS Kiro in India 🇮🇳**
+
+![GitHub Stars](https://img.shields.io/github/stars/aryan-vijaykar/local-guide-system?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/aryan-vijaykar/local-guide-system?style=social)
+
+---
+
+**HackKiro Week 4 Challenge: The Local Guide** | _December 2025_
+
+</div>
+
