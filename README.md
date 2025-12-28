@@ -6,10 +6,7 @@
 
 ### **HackKiro Week 5 Challenge: The Local Guide** 🏆
 
-**Mashing up Traffic Chaos with Developer Bug Reports across Indian Cities**
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Dashboard-00C7B7?style=for-the-badge)](https://awskiro1.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/harshendram/awskiro)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/aryan-vijaykar/local-guide-system)
 [![Built with Kiro](https://img.shields.io/badge/Built_with-AWS_Kiro-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
 
 </div>
