@@ -2,8 +2,7 @@
 
 <div align="center">
   
-![AI for Bharat](aiforbharat-banner.webp)
-
+![Local Guide System](https://storage.googleapis.com/vision-hack2skill-production/innovator/USER00000009/1762793569437-homepage4.webp)
 ### **HackKiro Week 5 Challenge: The Local Guide** 🏆
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/aryan-vijaykar/local-guide-system)
