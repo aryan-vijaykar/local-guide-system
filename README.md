@@ -2,19 +2,17 @@
 
 <div align="center">
   
-![Local Guide Banner](local-guide-banner.webp)
+![AI for Bharat](aiforbharat-banner.webp)
 
-### **HackKiro Week 3 Challenge: The Data Weaver** 🏆
+### **HackKiro Week 5 Challenge: The Local Guide** 🏆
 
-**An AI That Knows One City Deeply Instead of the World Shallowly**
+**Mashing up Traffic Chaos with Developer Bug Reports across Indian Cities**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_Local_Guide-00C7B7?style=for-the-badge)](https://local-guide-system.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/aryan-vijaykar/local-guide-system)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Dashboard-00C7B7?style=for-the-badge)](https://awskiro1.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/harshendram/awskiro)
 [![Built with Kiro](https://img.shields.io/badge/Built_with-AWS_Kiro-FF9900?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com)
 
 </div>
-
----
 
 ## 📋 Table of Contents
 
