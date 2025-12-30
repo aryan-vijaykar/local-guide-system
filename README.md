@@ -905,7 +905,7 @@ describe('Slang Translator', () => {
 
 ---
 
-**HackKiro Week 4 Challenge: The Local Guide** | _December 2025_
+**HackKiro Week 5 Challenge: The Local Guide** | _December 2025_
 
 </div>
 
